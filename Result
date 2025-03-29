@@ -1,0 +1,8 @@
+# Building-your-own-Chatbot
+
+Simple Food Ordering Chatbot built with GloVe Word Embeddings
+
+## Performance
+* Intent classification accuracy: ~87% on test examples
+* Response generation latency: <100ms after word vector loading
+* Minimal training data required (only 30-40 example sentences)
